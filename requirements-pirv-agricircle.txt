@@ -1,0 +1,18 @@
+# PIRV AgriCircle — Python Dependencies
+# Portfolio scoring, automation, evidence weighting
+# Install: pip install -r requirements-pirv-agricircle.txt
+
+# Core
+pandas>=2.1.0
+tabulate>=0.9.0
+requests>=2.31.0
+
+# Optional: charting (dashboard/build_charts.py)
+# plotly>=5.18.0
+# kaleido>=0.2.1
+
+# Optional: PDF generation
+# reportlab>=4.0.0
+
+# Dev / testing
+pytest>=8.0.0
